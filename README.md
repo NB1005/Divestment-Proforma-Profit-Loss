@@ -11,5 +11,7 @@ In practice, teams found the model most useful when it was treated as an assumpt
 **Files Included:**
 
 Project Proforma P&L_Template.xlsx - simplified & redacted file that was used
+
 cashflow_image_example.png - screenshot image of example cashflow statement
+
 pl_image_example.png - screenshot image of example p&l statement
